@@ -1,3 +1,5 @@
+This is a compressed fork of the original repository, which you should check out.
+
 A simple HTML [Data URI](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URLs) encoder.
 
 
